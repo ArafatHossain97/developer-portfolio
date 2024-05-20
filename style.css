@@ -24,3 +24,12 @@ section {
 }
 
 .top-banner {}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 60%;
+}
